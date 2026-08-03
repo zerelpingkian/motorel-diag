@@ -1,0 +1,6 @@
+{
+  "name": "Motorel Diag",
+  "description": "Motorcycle repair and learning platform for diagnostics, replacement guides, techniques, and community troubleshooting in the Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
